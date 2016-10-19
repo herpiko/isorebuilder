@@ -22,3 +22,8 @@ Kustom Sampai langkah ini, anda dapat memodifikasi Live CD (misal menambahkan be
 ##### Build
 
 `sudo ./tambora.sh`
+
+
+##### License
+
+MIT, but this contains a binary from `isolinux` package.
