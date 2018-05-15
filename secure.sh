@@ -1,3 +1,5 @@
+sudo cp -vR ../*deb edit-secure
+sudo echo "dpkg -i blankon-installer_*" | sudo chroot edit-secure/
 BLOB=`pwd`/isohdpfx.bin
 rm -rf extract-secure
 cp -R extract-secure-origin extract-secure
